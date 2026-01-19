@@ -110,18 +110,15 @@ I have successfully delivered **commercial products used by real users** and am 
 
 ---
 
-## 📊 GitHub Stats (Custom Theme)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshuch01&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuch01&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshuch01&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuch01&theme=nord&hide_border=true" />
 </p>
 
----
-
 ## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuch01&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuch01&theme=github-dark)
 
 ---
 
