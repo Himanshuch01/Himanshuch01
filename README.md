@@ -120,6 +120,13 @@ I have successfully delivered **commercial products used by real users** and am 
 ## 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuch01&theme=github-dark)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Himanshuch01/Himanshuch01/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
 ---
 
 ## 🤝 Connect With Me
